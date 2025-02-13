@@ -1,11 +1,10 @@
 
 import {
-  CustomerReviews,
   Footer,
   Hero,
-  Services,
-  SpecialOffer,
-  Subscribe,
+  Products,
+  Press,
+  Contact,
   AboutUs,
 } from "./sections";
 
@@ -19,18 +18,15 @@ const App = () => {
         <AboutUs />
       </section>
       <section className='padding-x py-10'>
-        <Services />
+        <Products />
       </section>
       <section className='padding'>
-        <SpecialOffer />
-      </section>
-      <section className='bg-pale-blue padding'>
-        <CustomerReviews />
+        <Press />
       </section>
       <section className='padding-x sm:py-32 py-16 w-full'>
-        <Subscribe />
+        <Contact />
       </section>
-      <section className=' bg-black padding-x padding-t pb-8'>
+      <section className=''>
         <Footer />
       </section>
     </main>
