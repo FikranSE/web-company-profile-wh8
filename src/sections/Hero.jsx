@@ -32,7 +32,7 @@ const Hero = () => {
         <div className="flex justify-between items-center max-w-7xl mx-auto">
           <div className="flex items-center space-x-2">
             <div className="w-6 h-6 sm:w-8 sm:h-8 bg-sky-600 rounded"></div>
-            <div className="text-sky-600 font-bold text-lg sm:text-xl md:text-white lg:text-sky-600 max-md:text-white">WH8</div>
+            <div className="text-sky-600 font-bold text-lg sm:text-xl md:text-white lg:text-sky-600 max-md:text-white">PT MATA AIR PERMATA</div>
           </div>
           
           {/* Desktop Menu */}

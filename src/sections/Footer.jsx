@@ -7,7 +7,7 @@ const Footer = () => {
         {/* Logo Section */}
         <div className="flex items-center">
           <a href="/" className="text-2xl font-bold text-sky-600">
-            WH8
+          PT MATA AIR PERMATA
           </a>
         </div>
 
