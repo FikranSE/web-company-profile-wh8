@@ -2,7 +2,7 @@ import Hero from "./Hero";
 import PopularProducts from "./PopularProducts";
 import AboutUs from "./AboutUs";
 import Products from "./Products";
-import Press from "./Press";
+import ProductGallery from "./ProductGallery";
 import Contact from "./Contact";
 import Footer from "./Footer";
 
@@ -11,7 +11,7 @@ export {
     AboutUs,
     PopularProducts,
     Products,
-    Press,
+    ProductGallery,
     Contact,
     Footer
 }

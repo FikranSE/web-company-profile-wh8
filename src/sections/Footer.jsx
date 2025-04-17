@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="flex flex-row md:space-x-6 flex-wrap justify-center gap-4 text-sm">
           <a href="/about-us" className="text-gray-600 hover:text-gray-900">ABOUT US</a>
           <a href="/products" className="text-gray-600 hover:text-gray-900">PRODUCTS</a>
-          <a href="/press" className="text-gray-600 hover:text-gray-900">PRESS</a>
+          <a href="/productgalerry" className="text-gray-600 hover:text-gray-900">GALERY</a>
           <a href="/careers" className="text-gray-600 hover:text-gray-900">CAREERS</a>
           <a href="/contact-us" className="text-gray-600 hover:text-gray-900">CONTACT US</a>
         </div>

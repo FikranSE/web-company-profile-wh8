@@ -3,7 +3,7 @@ import {
   Footer,
   Hero,
   Products,
-  Press,
+  ProductGallery,
   Contact,
   AboutUs,
 } from "./sections";
@@ -21,7 +21,7 @@ const App = () => {
         <Products />
       </section>
       <section className='padding'>
-        <Press />
+        <ProductGallery />
       </section>
       <section className='padding-x sm:py-32 py-16 w-full'>
         <Contact />
